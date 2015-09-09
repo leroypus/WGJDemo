@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3508F552-982D-4FAF-A0A8-D58F71B268E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WGJTableViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>bb1d9bd3-4ed8-7546-90c2-9460b555ceb2</key>
+		<string>https://172.30.3.8:1443/svn/SJiOSDevTutorial</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Assignment/wgj/WGJTableViewDemo/WGJTableViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>bb1d9bd3-4ed8-7546-90c2-9460b555ceb2</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>bb1d9bd3-4ed8-7546-90c2-9460b555ceb2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>bb1d9bd3-4ed8-7546-90c2-9460b555ceb2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SJiOSDevTutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
